@@ -1,0 +1,12 @@
+<DOCTYPE! html>
+<html>
+<head>
+<title>Sneaky Snake Game</title>
+</head>
+<body>
+	<canvas id="canvas"width="600"
+height="574"></canvas>
+<script src="script.js"type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"type="text/javascript"></script>
+</body>
+</html>
